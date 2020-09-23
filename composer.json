@@ -1,0 +1,14 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"TreinamentoRD\\ExerciciosLogicaPhp\\" : "src"
+		}
+	},
+	"name" : "TreinamentoRD/ExerciciosLogicaPhp",
+	"require" : {
+		"php" : ">=7.4"
+	},
+	"require-dev" : {
+		"phpunit/phpunit" : "^7"
+	}
+}
