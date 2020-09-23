@@ -4,7 +4,7 @@ require_once './src/Exercicios/Condicoes.php';
 
 use PHPUnit\Framework\TestCase;
 use TreinamentoRD\ExerciciosLogicaPhp\Exercicios\Cliente;
-use TreinamentoRD\ExerciciosLogicaPhp\Exercicios\Resolvido\CondicoesResolvido;
+use TreinamentoRD\ExerciciosLogicaPhp\Exercicios\Condicoes;
 
 final class CondicoesTest extends TestCase
 {
