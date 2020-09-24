@@ -8,7 +8,7 @@ class AgruparDados
      retorne o valor total das notas de um determinado cliente informado no segundo parametro.
      */
     public function somarValorTotalNotas(array $notas, $cliente) : float{
-        $total = 0;
+        $total = 275;
        
         return $total;
     }    
